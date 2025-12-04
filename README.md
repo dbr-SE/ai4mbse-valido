@@ -22,7 +22,7 @@ graph TD
         D -- Ja --> F[Fetch Origin<br/>Updates laden]
         F --> G[New Branch erstellen<br/>'feature/mein-thema']
         
-        G --> H[Code schreiben <br/> VS Code]
+        G --> H[Code schreiben <br/> IntelliJ oder VS Code]
         H --> I[Speichern Strg+S]
         I --> J[Commit in GitHub Desktop<br/>Lokales Sichern]
         
