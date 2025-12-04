@@ -1,7 +1,7 @@
 # ai4mbse-valido
 Dieses Repository bildet die Systemarchitektur des Projektes AI4MBSE ab.
 
-# Unser Projekt Workflow
+# Unser Projekt Workflow (DRAFT)
 
 Hier ist der Ablauf für unser Team:
 
