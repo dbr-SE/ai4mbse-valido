@@ -114,7 +114,7 @@ Ideal für schnelles Arbeiten, wenn du die Befehle kennst.
 Perfekt, wenn du lieber klickst als tippst und eine Übersicht haben willst.
 1.  **Clone:** Öffne GitHub Desktop -> Menü `File` -> `Clone repository...` -> URL `https://github.com/dbr-SE/ai4mbse-valido` eingeben -> `Clone`.
 2.  **Branch:** Klicke oben in der Leiste auf **"Current Branch"** -> **"New Branch"** -> Gib deinen Namen ein (z.B. `feature/ui-moritz`) -> `Create Branch`.
-3.  **Code:** Klicke auf den Button **"Show in Explorer"**, öffne die Dateien in deiner IDE (IntelliJ/Eclipse) und arbeite ganz normal.
+3.  **Code:** Klicke auf den Button **"Show in Explorer"**, öffne die Dateien in deiner IDE (IntelliJ/VSCode/Eclipse) und arbeite ganz normal.
 4.  **Commit & Push:**
     * Gehe zurück zu GitHub Desktop. Du siehst deine Änderungen links.
     * Gib unten links eine Zusammenfassung ein.
